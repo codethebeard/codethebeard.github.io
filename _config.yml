@@ -2,10 +2,10 @@
 title: Michael VanDyke
 
 # Description of your website. This is used for social sharing.
-description: iOS nerd, lifetime student, technologist, and hobbiest mechanic.
+description: Engineering lead, lifetime student, and professional amateur of making things.
 
 # A brief blurb about yourself
-content: iOS nerd, lifetime student, technologist, and hobbiest mechanic. Check me out!
+content: Engineering lead, lifetime student, and professional amateur of making things.
 
 # Add your social links
 social:
@@ -17,8 +17,6 @@ social:
     url: https://www.instagram.com/codethebeard/
 
 # General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "" # google analytics tracking
